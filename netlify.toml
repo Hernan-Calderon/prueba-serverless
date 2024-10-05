@@ -7,3 +7,4 @@
 
 [functions]
 	directory = "netlify/functions"
+    external_node_modules = ["@sendgrid/mail"]
